@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Jone Doe",
+      "email": "jone99@gmail.com",
+      "password": "jone@1234",
+      " phone_number": 9902566253
+    },
+    {
+      "username": "Vinod Kumar",
+      "phone_number": "2315487984",
+      "email": "vinod@12gmail.com",
+      "password": "vinod21234",
+      "id": 2
+    },
+    {
+      "username": "pavan",
+      "email": "pavan12@gmail.com",
+      "phone_number": "9952366547",
+      "password": "pavan@1234",
+      "id": 3
+    }
+  ]
+}

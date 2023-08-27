@@ -1,0 +1,11 @@
+{
+    "std":[
+        {
+            "id": 1,
+            "username": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "password": "jane@1234",
+            "phone_number": 9902566288
+        }
+    ]
+}

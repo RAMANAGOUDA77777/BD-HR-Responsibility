@@ -1,0 +1,206 @@
+{
+  "company": [
+    {
+      "company": "ABC Tech",
+      "role": "Software Engineer",
+      "skillsRequired": [
+        "Java",
+        "Python",
+        " JavaScript"
+      ],
+      "eligible": [
+        "B.E",
+        "B.tech"
+      ],
+      "percentage": "90",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "company": "XYZ Corp",
+      "role": "Frontend Developer",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "percentage": 85
+    },
+    {
+      "id": 3,
+      "company": "TechWave Solutions",
+      "role": "Full Stack Developer",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "Node.js",
+        "React",
+        "MongoDB"
+      ],
+      "percentage": 88
+    },
+    {
+      "id": 5,
+      "company": "InnovateTech",
+      "role": "Mobile App Developer",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "Android",
+        "iOS",
+        "React Native"
+      ],
+      "percentage": 82
+    },
+    {
+      "id": 6,
+      "company": "CloudSynergy",
+      "role": "DevOps Engineer",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "CI/CD",
+        "Docker",
+        "Kubernetes"
+      ],
+      "percentage": 85
+    },
+    {
+      "id": 7,
+      "company": "DataInsight",
+      "role": "Machine Learning Engineer",
+      "eligible": [
+        "B.E",
+        "B.Tech",
+        "M.E",
+        "M.Tech"
+      ],
+      "skillsRequired": [
+        "Python",
+        "TensorFlow",
+        "Deep Learning"
+      ],
+      "percentage": 88
+    },
+    {
+      "id": 8,
+      "company": "SecurityTech",
+      "role": "Cybersecurity Analyst",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "SIEM Tools"
+      ],
+      "percentage": 90
+    },
+    {
+      "id": 9,
+      "company": "AI Innovations",
+      "role": "AI Researcher",
+      "eligible": [
+        "B.E",
+        "B.Tech",
+        "M.E",
+        "M.Tech",
+        "Ph.D."
+      ],
+      "skillsRequired": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Research"
+      ],
+      "percentage": 95
+    },
+    {
+      "id": 10,
+      "company": "WebTech Solutions",
+      "role": "Web Developer",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "percentage": 80
+    },
+    {
+      "id": 11,
+      "company": "GameGenius",
+      "role": "Game Developer",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "Unity",
+        "C#",
+        "Game Design"
+      ],
+      "percentage": 85
+    },
+    {
+      "id": 12,
+      "company": "TechSecured",
+      "role": "Blockchain Developer",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "Blockchain",
+        "Smart Contracts",
+        "Cryptocurrency"
+      ],
+      "percentage": 82
+    },
+    {
+      "id": 13,
+      "company": "CodeCrafters",
+      "role": "Software Quality Analyst",
+      "eligible": [
+        "B.E",
+        "B.Tech"
+      ],
+      "skillsRequired": [
+        "Software Testing",
+        "Test Automation",
+        "Bug Tracking"
+      ],
+      "percentage": 75
+    },
+    {
+      "company": "TCS",
+      "role": "Software Engineer",
+      "eligible": [
+        "B.E",
+        "B.Tec",
+        "BSC",
+        "B-Com"
+      ],
+      "skillsRequired": [
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "percentage": "60",
+      "id": 14
+    }
+  ]
+}

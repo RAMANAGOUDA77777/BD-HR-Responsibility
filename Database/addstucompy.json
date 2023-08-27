@@ -1,0 +1,62 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "company_name": "TCS",
+      "Role": "software Engineer",
+      "email_id": "ram11@gmail.com",
+      "phone_number": "9958644456",
+      "Student_name": "Jane Smith",
+      "Qualification": [
+        "B.E",
+        "B.tech"
+      ],
+      "percentage": 90,
+      "year_of_pass": 2021,
+      "Skills": [
+        "Java",
+        "Python",
+        " JavaScript"
+      ]
+    },
+    {
+      "company_name": "Wipro",
+      "Role": "test engineer",
+      "email_id": "ramsnam23@gmail.com",
+      "phone_number": "1113164646",
+      "Student_name": "sanjay",
+      "Qualification": [
+        "B.E",
+        " B.tech",
+        " M.tech "
+      ],
+      "percentage": "85",
+      "year_of_pass": "2022",
+      "Skills": [
+        "java",
+        " c",
+        " c++",
+        " javaScript."
+      ],
+      "id": 2
+    },
+    {
+      "company_name": "LNT",
+      "Role": "Front-End developer",
+      "email_id": "mani22@gmail.com",
+      "phone_number": "9123456789",
+      "Student_name": "mani",
+      "Qualification": [
+        "MBA"
+      ],
+      "percentage": "95",
+      "year_of_pass": "2023",
+      "Skills": [
+        "HTML/CSS",
+        " JavaScript",
+        " React JS"
+      ],
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id" : 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "qualification": "Bachelor's Degree",
+      "percentage": "85",
+      "skills": ["Python", "JavaScript", "SQL"],
+      "year_of_pass": "2022"
+    },
+    {
+      "id":2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "9876543210",
+      "qualification": "Master's Degree",
+      "percentage": "92",
+      "skills": ["Java", "C++", "Data Analysis"],
+      "year_of_pass": "2021"
+    },
+    {
+      "id":3,
+      "name": "miller",
+      "email": "miller78@gmail.com",
+      "phone": " 9123456789",
+      "qualification": "Doctorate of Philosophy",
+      "percentage": "68",
+      "skills": ["C++","Data Analysis","Java"],
+      "year_of_pass": "2020"
+    },
+    {
+      "id":4,
+      "name":"Allen",
+      "email":"Allen88@gmail.com",
+      "phone":" 9876543210",
+      "qualification":"Masters in Computer Science and Engineering",
+      "percentage":"85",
+      "skills":["HTML/CSS","PHP","MySQL"],
+      "year_of_pass":"2019"
+    },
+    {
+      "id":5,
+      "name":"sanjay",
+      "email":"sanjay99@gmail.com",
+      "phone":"9800555123",
+      "qualification":"Bachelors degree in computer science",
+      "percentage":"90",
+      "skills":["Python","C++","Java","SQL"],
+      "year_of_pass":"2018"
+    },
+    {
+      "id":6,
+      "name":"mani",
+      "email":"mani22@gmail.com",
+      "phone": "9123456789",
+      "qualification":"MBA",
+      "percentage":"95",
+      "skills":["HTML/CSS","JavaScript","React JS"],
+      "year_of_pass":"2023"
+    }
+  ]
+}

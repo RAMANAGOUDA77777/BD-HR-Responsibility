@@ -1,0 +1,18 @@
+{
+  "hruser": [
+    {
+      "id": 1,
+      "username": "sita",
+      "email": "sita99@gmail.com",
+      "password": "sita@1234",
+      " phone_number": 9902566253
+    },
+    {
+      "username": "geeta",
+      "phone_number": "9985200125",
+      "email": "geeta11@gmail.com",
+      "password": "geeta@11",
+      "id": 2
+    }
+  ]
+}

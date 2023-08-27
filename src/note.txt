@@ -1,0 +1,96 @@
+1] JSX is javascript syntax which is used in react that helps us to write HTML and javascript together in component.
+2] Babbel is transpiler which helps to convert jsx code to javascript code because browser can't understand the their no inbuilt methods to understand.
+3] App.js is a document which includes afunction returning a jsx value.
+4] Index.js will call the app function so that it return HTML code.
+5] Returned HTML code is then rendered to root division of index.html.
+
+NOTE :  noscript = displayes the text if JS engine in browser is disabled. 
+
+FUNDAMENTALS 
+
+1] components
+2] jsx, Babbel
+3] formatting and fragment
+4] state management and side effects.
+5] event handling
+6] conditional rendering
+7] multiple components
+8] props
+9] using map method to display multiple content
+
+HOOKS
+   usestate()
+   useEffect()
+   useRef()
+   useContext()
+   useReducer()
+   useMemo()
+   useCallback()
+   custom Hook
+
+ADVANCE 
+    HTTP methods (CRUD Operation)
+    React Routing 
+    Router parameter
+    error handling
+    404 page
+    Pure Components and inpure components
+    Controlled components
+    Higher order components
+    First order component
+    Public routing and Protected routing
+    axios methods to fetch the data
+
+
+NOT FOR PROJECT, FOR INTERVIEW PURPOSE ONLY
+CLASS Components
+state management
+life cycle methods
+
+react strict mode just replica of code.
+console ninja  package 
+react snippects
+blackbox ai 
+ES7, ES7+
+
+
+in react using jsx we can create custom tags not in html. 
+
+why?Attribute 
+
+---> to differencate b/w js and html so that why we use camelcase order. 
+
+---> when we are inserting js in html we use {} in jsx.
+
+COMPONENTS -> a function which return the jsx template.
+  
+JSX -> jsx is a combination of js + XML.
+       jsx allows the programmer to write the HTML inside the JS.
+       jsx allows us to create custom tags also.
+       jsx is a special value, but node js will not understand this special value, we have babbel(transpiler) which converts to normal js value.
+
+FRAGMENTS -> we know js  function can return only one value at a time. if we need to return multiple tags then we enclose using any scementic or jsx FRAGMENTS <> </>.
+
+            Better to use <> </> to enclose, because it prevents creating extra container.
+
+Formatting -> React is a combination of html and js so we fromat the code using brackets.
+
+            1] HTML {JS}  HTML
+            2]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+Event handling -> case 1: if function has zero parameter, just pass function reference (name).
+                        eg: onClick = {functionName}
+
+                  case 2: if function has some parameters, then use Callback and invoke the function.
+                        eg: onClick = {()=>{function(arguments)}} 
+
+  short cut keyboard -- tab
+                       shift + tab 
+                       alt shift + f (fromat document)    
+
+
+State management -> 
+
+set method value will be updated and then  component will be re-render.
+
+color palette for website
